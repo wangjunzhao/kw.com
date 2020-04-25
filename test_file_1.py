@@ -2,3 +2,7 @@
 
 def fist_commit():
     print "其他人已经修改，在没有pull的情况下第一次修改，并commit,然后pull"
+
+
+def prt():
+    print "在bak分支第一次修改"
